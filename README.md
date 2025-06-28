@@ -49,7 +49,7 @@ Exclude Amateur-Built Planes: Do not consider amateur-built aircraft for busines
 Emphasize Training and Inspection: Implement rigorous pilot training programs and regular, thorough aircraft inspections to mitigate risks, especially given the prevalence of clear weather incidents.
 ## Tools Used
 
-- **Python** (pandas, matplotlib, seaborn)
+- **Python** (pandas, matplotlib)
 - **Jupyter Notebook**
 - **Tableau** (for dashboard)
 - **GitHub** (for version control and sharing)
