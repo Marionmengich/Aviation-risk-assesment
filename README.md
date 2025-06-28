@@ -53,3 +53,5 @@ Emphasize Training and Inspection: Implement rigorous pilot training programs an
 - **Jupyter Notebook**
 - **Tableau** (for dashboard)
 - **GitHub** (for version control and sharing)
+
+Email: cherotichmarion20@gmail.com
