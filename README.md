@@ -1,4 +1,4 @@
-#Aircraft Safety Risk Analysis
+# Aircraft Safety Risk Analysis
 Understanding aircraft safety is crucial for any business looking to enter the aviation industry. This project dives deep into over 88,000 aircraft incidents from the U.S. National Transportation Safety Board (NTSB) dataset to provide data-driven insights and recommendations for acquiring the safest aircraft for both commercial and private use.
 #Project Objective
 Our primary goal was to guide our company's aircraft acquisition strategy by answering key safety questions:
